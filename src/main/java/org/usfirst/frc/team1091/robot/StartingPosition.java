@@ -1,0 +1,5 @@
+package org.usfirst.frc.team1091.robot;
+
+public enum StartingPosition {
+	LEFT, CENTER_AND_STOP, CENTER_AND_RIGHT_ROUND, CENTER_AND_LEFT_ROUND, RIGHT, DRIVE_FORWARDS_WITH_NO_GEAR, DO_NOTHING_ATALL
+}
